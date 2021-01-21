@@ -1,0 +1,29 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+li {
+  list-style-type: none;
+  padding: 1rem;
+  border: 1px solid #8d8f92;
+  width: 70%;
+  margin: 1rem 0rem;
+  border-radius: 0.5rem;
+  cursor: pointer;
+}
+button {
+  cursor: pointer;
+  background: grey;
+  color: #fff;
+  border-radius: 0.5rem;
+  padding: 0.5rem 1rem;
+  border: 1px solid grey;
+  margin: 1rem 0.3rem;
+}
+hr {
+  color: rgb(175, 175, 175);
+}
+li:hover {
+  background: #8d8f92;
+  color: #fff;
+}
